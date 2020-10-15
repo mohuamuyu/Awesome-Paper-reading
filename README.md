@@ -22,7 +22,9 @@
   
 # Awesome 3D Point Cloud
 - [Awesome 3D Point Cloud](#awesome-3D-Point-Cloud)
-  -[classification](#awesome-3D-Point-Cloud-classification)
-  -[semantic segmentation](#awesome-3D-Point-Cloud-semantic-segmentation)
-  -[Detection](#awesome-3D-Point-Cloud-detection)
-  -[Instance segmentation](#awesome-3D-Point-Cloud-instance-segmentation)
+  - [Different task of 3D Point Cloud](#different-task-of-3d-point-cloud)
+    - [classification](#awesome-3D-Point-Cloud-classification)
+    - [semantic segmentation](#awesome-3D-Point-Cloud-semantic-segmentation)
+    - [Detection](#awesome-3D-Point-Cloud-detection)
+    - [Instance segmentation](#awesome-3D-Point-Cloud-instance-segmentation)
+
