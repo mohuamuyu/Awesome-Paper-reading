@@ -19,4 +19,10 @@
   - [Application of KD](#application-of-kd)
     - [for NLP](#for-nlp)
   - [Model Pruning or Quantization](#model-pruning-or-quantization)
-  - [Beyond](#beyond)
+  
+# Awesome 3D Point Cloud
+- [Awesome 3D Point Cloud](#awesome-3D-Point-Cloud)
+  -[classification](#awesome-3D-Point-Cloud-classification)
+  -[semantic segmentation](#awesome-3D-Point-Cloud-semantic-segmentation)
+  -[Detection](#awesome-3D-Point-Cloud-detection)
+  -[Instance segmentation](#awesome-3D-Point-Cloud-instance-segmentation)
