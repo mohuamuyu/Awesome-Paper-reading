@@ -25,4 +25,9 @@
   - [semantic segmentation](#awesome-3D-Point-Cloud-semantic-segmentation)
   - [Detection](#awesome-3D-Point-Cloud-detection)
   - [Instance segmentation](#awesome-3D-Point-Cloud-instance-segmentation)
+  
+# Awesome Attention
+- [Different Attention](#different-attention)
+  - [classification](#awesome-3D-Point-Cloud-classification)
+
 
