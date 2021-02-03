@@ -18,7 +18,7 @@
 
 ## Awesome 3D-ins
 
-SegGroup: Seg-Level Supervision for 3D Instance and Semantic Segmentation. [arxiv20 paper](https://arxiv.org/pdf/2012.10217.pdf) [code](https://github.com/AnTao97/SegGroup)
+SegGroup: Seg-Level Supervision for 3D Instance and Semantic Segmentation. [arxiv20](https://arxiv.org/pdf/2012.10217.pdf). [code](https://github.com/AnTao97/SegGroup)
 
 # Awesome NLP
 
