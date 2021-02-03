@@ -22,7 +22,9 @@ Learning Gaussian Instance Segmentation in Point Clouds. [arxiv20](https://arxiv
 
 DyCo3D: Robust Instance Segmentation of 3D Point Clouds through Dynamic Convolution. [arxiv20](https://arxiv.org/pdf/2011.13328.pdf). [code](https://github.com/aim-uofa/DyCo3D)
 
-LiDAR-based Panoptic Segmentation via Dynamic Shifting Network. [arxiv20](). [code](https://github.com/hongfz16/DS-Net). [semantic-kiti](http://semantic-kitti.org/tasks.html#panseg). 
+LiDAR-based Panoptic Segmentation via Dynamic Shifting Network. [arxiv20](). [code](https://github.com/hongfz16/DS-Net). [semantic-kiti](http://semantic-kitti.org/tasks.html#panseg). [nuscene](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any)
+
+Spatial Semantic Embedding Network: Fast 3D Instance Segmentation with Deep Metric Learning[arxiv20](https://arxiv.org/pdf/2007.03169.pdf). [code](https://github.com/96lives/ssen)
 
 SegGroup: Seg-Level Supervision for 3D Instance and Semantic Segmentation. [arxiv20](https://arxiv.org/pdf/2012.10217.pdf). [code](https://github.com/AnTao97/SegGroup)
 Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts. [arxiv20](https://arxiv.org/pdf/2012.09165.pdf).
