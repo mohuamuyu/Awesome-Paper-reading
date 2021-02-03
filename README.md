@@ -45,6 +45,7 @@ Spatial Semantic Embedding Network: Fast 3D Instance Segmentation with Deep Metr
 LiDAR-based Panoptic Segmentation via Dynamic Shifting Network. [arxiv20](). [code](https://github.com/hongfz16/DS-Net). [semantic-kiti](http://semantic-kitti.org/tasks.html#panseg). [nuscene](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any)
 
 SegGroup: Seg-Level Supervision for 3D Instance and Semantic Segmentation. [arxiv20](https://arxiv.org/pdf/2012.10217.pdf). [code](https://github.com/AnTao97/SegGroup)
+
 Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts. [arxiv20](https://arxiv.org/pdf/2012.09165.pdf). [code](https://github.com/WXinlong/ASIS)
 
 Associatively Segmenting Instances and Semantics in Point Clouds. [cvpr19](https://arxiv.org/pdf/1902.09852.pdf). 
